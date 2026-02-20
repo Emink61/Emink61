@@ -16,7 +16,6 @@
 - 💡 Passionate about coding & teamwork  
 - 🌍 Languages: Turkish 🇹🇷 | English 🇬🇧 | German 🇩🇪  
 - 🖥 Strong hardware awareness & versatile mindset  
-- 🎯 If I start a project, I finish it.  
 
 ---
 
