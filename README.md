@@ -51,16 +51,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emink61&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emink61&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" height="170"/>
-</p>
-
----
 
 ## 🚀 Featured Projects
 
