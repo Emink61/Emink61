@@ -24,12 +24,17 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
 </p>
 
-### ⚙️ Backend & Runtime
+### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django" />
+</p>
+
+### 🤖 AI / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
 ### 🗄 Database
@@ -37,11 +42,15 @@
   <img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
 ### 🛠 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
-
 ---
 
 ## 📊 GitHub Analytics
