@@ -70,18 +70,13 @@
 | 🔹 Backend API | Node.js REST structure | Node.js |
 | 🔹 Automation Tool | Python scripting project | Python |
 
-*(Bu kısmı kendi projelerinle güncelle.)*
-
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:eminklic122@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
