@@ -23,7 +23,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,json" />
 </p>
 
 ### ⚙️ Backend & Frameworks
