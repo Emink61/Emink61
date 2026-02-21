@@ -48,7 +48,7 @@
 
 ### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,googlecolab" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,colab" />
 </p>
 
 ## 🚀 Featured Projects
