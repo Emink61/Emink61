@@ -43,7 +43,6 @@ I build things for the web and experiment with AI. Currently diving deep into ba
 ---
 
 ### 📫 Reach Me
-`eminklic122@gmail.com`  
 [<img src="https://skillicons.dev/icons?i=github" width="30">](https://github.com/Emink61)
 
 <p align="right">
