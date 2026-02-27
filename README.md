@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=building+stuff+with+code;fullstack+%2B+ai+explorer;coffee+and+scripts" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=building+stuff+with+code;fullstack+%2B+ai+explorer" />
 </p>
 
 ---
