@@ -19,8 +19,8 @@ I build things for the web and experiment with AI. Currently diving deep into ba
 
 ### 🚀 Stack
 
-**Languages**<img src="https://skillicons.dev/icons?i=js,python,html,css,c,cpp" />
-<img src="https://skillicons.dev/icons?i=nodejs,npm,django,sqlite" />
+**Languages**<img src="https://skillicons.dev/icons?i=js,python,html,css,c,cpp" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,npm,django,sqlite" /><br>
 <img src="https://skillicons.dev/icons?i=pytorch,vscode,git,github,postman" />
 
 ---
