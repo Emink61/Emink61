@@ -20,8 +20,8 @@ I build things for the web and experiment with AI. Currently diving deep into ba
 ### 🚀 Stack
 
 Languages / Backend <br><br><img src="https://skillicons.dev/icons?i=js,python,html,css,c,cpp" /><br><br>
-Frontend / Web <br><br><img src="https://skillicons.dev/icons?i=nodejs,npm,django,sqlite" /><br><br>
-Data / Coding <br><br><img src="https://skillicons.dev/icons?i=pytorch,vscode,git,github,postman" />
+Frontend / Databases <br><br><img src="https://skillicons.dev/icons?i=nodejs,npm,django,sqlite" /><br><br>
+Data / AI <br><br><img src="https://skillicons.dev/icons?i=pytorch,vscode,git,github,postman" />
 
 ---
 
