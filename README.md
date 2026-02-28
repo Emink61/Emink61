@@ -25,14 +25,6 @@ I build things for the web and experiment with AI. Currently diving deep into ba
 
 ---
 
-### 📊 Some Stats
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Emink61&show_icons=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0B1F3A&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emink61&layout=compact&langs_count=4&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0B1F3A&hide_border=true" />
-</p>
-
----
-
 ### 🛠 Projects
 - **Web App:** Clean UI, fast performance.
 - **Backend API:** Built with Node.js & NPM.
