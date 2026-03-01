@@ -1,6 +1,6 @@
 ### Stack
 
-Languages / Backend <br><br><img src="https://skillicons.dev/icons?i=js,python,html,css,c,cpp" /><br><br>
+Languages / Backend <br><br><img src="https://skillicons.dev/icons?i=js,python,html,css" /><br><br>
 Frontend / Databases <br><br><img src="https://skillicons.dev/icons?i=nodejs,npm,django,mysql,mongodb" /><br><br>
 Data / AI <br><br><img src="https://skillicons.dev/icons?i=pytorch,vscode,git,github,postman" />
 
